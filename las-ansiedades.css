@@ -1,0 +1,136 @@
+		body {
+		
+			background-color: #585858;
+			background-image: linear-gradient(to right, #585858, #6E6E6E, #585858);
+			
+		}
+
+		h2 {
+
+			text-align: center;
+
+		}
+
+		p {
+
+			text-align: center;
+
+		}
+			
+		.cabecera-index {
+			
+			background-color: #6E6E6E;
+			border-radius   : 20px;
+			width           : 400px;
+			position        : relative;
+			left            : 35%;
+			margin-bottom   : 45px;
+			margin-top  	: 10%;
+
+		}
+
+		.cabecera {
+			
+			background-color: #6E6E6E;
+			border-radius   : 20px;
+			width           : 400px;
+			position        : relative;
+			left            : 35%;
+			margin-bottom   : 45px;
+
+		}
+		
+		.imagen-perfil-index {
+		
+			width        : 200px;
+			padding      : 5% 45%;
+			border-radius: 50%;
+			
+		}
+
+		.imagen-perfil {
+		
+			width        : 200px;
+			padding      : 5% 25%;
+			border-radius: 50%;
+			
+		}
+			
+		.titulo {
+			
+			font-family: 'Ubuntu Mono', monospace;
+			font-size  : 37px;
+			color      : #585858;
+			text-align : center;
+		
+		}
+
+		a:visited {
+			
+			text-decoration: none;
+		}
+
+		.separacion {
+			
+			clear      : both;
+
+		}
+
+		.texto {
+
+			background-color: #6E6E6E;
+			color           : #424242;
+			border-radius   : 20px;
+			width           : 400px;
+			float           : left;
+			margin-top      : 20px;
+			margin-bottom   : 50px;
+			padding         : 10px;
+			padding         : 15px;
+			position        : absolute;
+			left            : 463px;
+
+		}
+
+		a {
+			text-decoration: none;
+			display        : inline-block;
+			padding        : 8px 16px;
+			}
+			
+		a:hover {
+			
+			color           : black;
+		}
+			
+		.next-01{
+
+			background-color: #6E6E6E;
+			color           : white;
+			margin-right    : 25%;
+			float           : right;
+			
+		}
+
+
+		.next {
+			background-color: #6E6E6E;
+			color           : white;
+			float           : right;
+			margin-right    : 25%;
+
+		}
+
+		.previous {
+			background-color: #6E6E6E;
+			color           : white;
+			float           : left;
+			margin-left     : 25%;
+			
+		}
+			
+		.round {
+
+			border-radius: 50%;
+			
+		}
